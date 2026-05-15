@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "cell_0001",
+    "polygon_wkt": "POLYGON((10.2523 56.1973,10.2523 56.2154,10.2703 56.2154,10.2703 56.1973,10.2523 56.1973))",
+    "pc1": -0.15904415471804287,
+    "pc2": -0.16139283977970334,
+    "top_families": [
+      {
+        "family": "Andrenidae",
+        "count": 17
+      },
+      {
+        "family": "Asteraceae",
+        "count": 17
+      },
+      {
+        "family": "Apidae",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "id": "cell_0002",
+    "polygon_wkt": "POLYGON((10.1622 56.882,10.1622 56.9,10.1802 56.9,10.1802 56.882,10.1622 56.882))",
+    "pc1": 0.23916682349655138,
+    "pc2": 0.18510802676600827,
+    "top_families": [
+      {
+        "family": "Noctuidae",
+        "count": 13
+      },
+      {
+        "family": "Ericaceae",
+        "count": 10
+      },
+      {
+        "family": "Cervidae",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "id": "cell_0003",
+    "polygon_wkt": "POLYGON((9.4055 55.5306,9.4055 55.5486,9.4235 55.5486,9.4235 55.5306,9.4055 55.5306))",
+    "pc1": -0.1653412359664816,
+    "pc2": -0.13869682014895052,
+    "top_families": [
+      {
+        "family": "Lamiaceae",
+        "count": 6
+      },
+      {
+        "family": "Caryophyllaceae",
+        "count": 6
+      },
+      {
+        "family": "Ranidae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0004",
+    "polygon_wkt": "POLYGON((9.7117 56.2154,9.7117 56.2334,9.7297 56.2334,9.7297 56.2154,9.7117 56.2154))",
+    "pc1": 0.08996751077412572,
+    "pc2": -0.04659352761105596,
+    "top_families": [
+      {
+        "family": "Rosaceae",
+        "count": 16
+      },
+      {
+        "family": "Ericaceae",
+        "count": 16
+      },
+      {
+        "family": "Geometridae",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "id": "cell_0005",
+    "polygon_wkt": "POLYGON((8.6847 55.4226,8.6847 55.4406,8.7027 55.4406,8.7027 55.4226,8.6847 55.4226))",
+    "pc1": 0.1773889470873359,
+    "pc2": -0.1610639380298626,
+    "top_families": [
+      {
+        "family": "Syrphidae",
+        "count": 12
+      },
+      {
+        "family": "Geometridae",
+        "count": 11
+      },
+      {
+        "family": "Urticaceae",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "id": "cell_0006",
+    "polygon_wkt": "POLYGON((8.991 56.0712,8.991 56.0892,9.009 56.0892,9.009 56.0712,8.991 56.0712))",
+    "pc1": 0.4755325025906745,
+    "pc2": -0.17245505261333274,
+    "top_families": [
+      {
+        "family": "Syrphidae",
+        "count": 18
+      },
+      {
+        "family": "Pentatomidae",
+        "count": 17
+      },
+      {
+        "family": "Erebidae",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "id": "cell_0007",
+    "polygon_wkt": "POLYGON((10.1982 55.1162,10.1982 55.1343,10.2163 55.1343,10.2163 55.1162,10.1982 55.1162))",
+    "pc1": 0.11563890471838381,
+    "pc2": -0.2595854731816959,
+    "top_families": [
+      {
+        "family": "Apidae",
+        "count": 22
+      },
+      {
+        "family": "Syrphidae",
+        "count": 18
+      },
+      {
+        "family": "Asteraceae",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "id": "cell_0008",
+    "polygon_wkt": "POLYGON((10.0361 56.3055,10.0361 56.3235,10.0541 56.3235,10.0541 56.3055,10.0361 56.3055))",
+    "pc1": -0.37973062768984983,
+    "pc2": -0.11817748544610637,
+    "top_families": [
+      {
+        "family": "Fabaceae",
+        "count": 19
+      },
+      {
+        "family": "Asteraceae",
+        "count": 13
+      },
+      {
+        "family": "Plantaginaceae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0011",
+    "polygon_wkt": "POLYGON((8.4145 55.0081,8.4145 55.0261,8.4325 55.0261,8.4325 55.0081,8.4145 55.0081))",
+    "pc1": -0.03991920209080963,
+    "pc2": 0.32955454378234833,
+    "top_families": [
+      {
+        "family": "Scolopacidae",
+        "count": 13
+      },
+      {
+        "family": "Anatidae",
+        "count": 8
+      },
+      {
+        "family": "Cancridae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0012",
+    "polygon_wkt": "POLYGON((10.5225 56.0892,10.5225 56.1072,10.5405 56.1072,10.5405 56.0892,10.5225 56.0892))",
+    "pc1": -0.07207812709434201,
+    "pc2": -0.13305615268573381,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 23
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 14
+      },
+      {
+        "family": "Apidae",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "id": "cell_0013",
+    "polygon_wkt": "POLYGON((9.9099 56.7018,9.9099 56.7198,9.9279 56.7198,9.9279 56.7018,9.9099 56.7018))",
+    "pc1": 0.2571545665297555,
+    "pc2": -0.19824670547218395,
+    "top_families": [
+      {
+        "family": "Syrphidae",
+        "count": 10
+      },
+      {
+        "family": "Miridae",
+        "count": 7
+      },
+      {
+        "family": "Apidae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0014",
+    "polygon_wkt": "POLYGON((9.8018 56.9361,9.8018 56.9541,9.8198 56.9541,9.8198 56.9361,9.8018 56.9361))",
+    "pc1": 0.3939673159377262,
+    "pc2": -0.17530674887604164,
+    "top_families": [
+      {
+        "family": "Syrphidae",
+        "count": 160
+      },
+      {
+        "family": "Lycaenidae",
+        "count": 23
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "id": "cell_0016",
+    "polygon_wkt": "POLYGON((10.0721 56.0352,10.0721 56.0532,10.0901 56.0532,10.0901 56.0352,10.0721 56.0352))",
+    "pc1": 0.03097772148871575,
+    "pc2": -0.1453800587183922,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 12
+      },
+      {
+        "family": "Apiaceae",
+        "count": 11
+      },
+      {
+        "family": "Coccinellidae",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "id": "cell_0017",
+    "polygon_wkt": "POLYGON((10.3423 55.3865,10.3423 55.4046,10.3603 55.4046,10.3603 55.3865,10.3423 55.3865))",
+    "pc1": 0.15487554806373086,
+    "pc2": -0.11809413376045669,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 18
+      },
+      {
+        "family": "Megachilidae",
+        "count": 11
+      },
+      {
+        "family": "Apidae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0018",
+    "polygon_wkt": "POLYGON((10.4324 56.2874,10.4324 56.3055,10.4504 56.3055,10.4504 56.2874,10.4324 56.2874))",
+    "pc1": -0.147302382026558,
+    "pc2": -0.062113455222075974,
+    "top_families": [
+      {
+        "family": "Fabaceae",
+        "count": 8
+      },
+      {
+        "family": "Rosaceae",
+        "count": 8
+      },
+      {
+        "family": "Asteraceae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0020",
+    "polygon_wkt": "POLYGON((10.0361 56.1793,10.0361 56.1973,10.0541 56.1973,10.0541 56.1793,10.0361 56.1793))",
+    "pc1": -0.2206926557957886,
+    "pc2": -0.0875208613062199,
+    "top_families": [
+      {
+        "family": "Ranunculaceae",
+        "count": 40
+      },
+      {
+        "family": "Rosaceae",
+        "count": 39
+      },
+      {
+        "family": "Lamiaceae",
+        "count": 30
+      }
+    ]
+  },
+  {
+    "id": "cell_0021",
+    "polygon_wkt": "POLYGON((9.5315 56.1613,9.5315 56.1793,9.5495 56.1793,9.5495 56.1613,9.5315 56.1613))",
+    "pc1": -0.21965175025209127,
+    "pc2": -0.09108096852622441,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 19
+      },
+      {
+        "family": "Coccinellidae",
+        "count": 10
+      },
+      {
+        "family": "Ranunculaceae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0022",
+    "polygon_wkt": "POLYGON((9.2613 55.4765,9.2613 55.4946,9.2793 55.4946,9.2793 55.4765,9.2613 55.4765))",
+    "pc1": 0.07923037670484166,
+    "pc2": 0.3904242044643925,
+    "top_families": [
+      {
+        "family": "Anatidae",
+        "count": 41
+      },
+      {
+        "family": "Libellulidae",
+        "count": 31
+      },
+      {
+        "family": "Accipitridae",
+        "count": 26
+      }
+    ]
+  },
+  {
+    "id": "cell_0024",
+    "polygon_wkt": "POLYGON((9.5495 56.4856,9.5495 56.5036,9.5675 56.5036,9.5675 56.4856,9.5495 56.4856))",
+    "pc1": 0.04876871152603215,
+    "pc2": -0.16579577656043548,
+    "top_families": [
+      {
+        "family": "Syrphidae",
+        "count": 34
+      },
+      {
+        "family": "Asteraceae",
+        "count": 14
+      },
+      {
+        "family": "Fabaceae",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "id": "cell_0026",
+    "polygon_wkt": "POLYGON((10.3423 57.6027,10.3423 57.6207,10.3603 57.6207,10.3603 57.6027,10.3423 57.6027))",
+    "pc1": 0.26912632366053507,
+    "pc2": 0.22738798051075867,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 15
+      },
+      {
+        "family": "Geometridae",
+        "count": 12
+      },
+      {
+        "family": "Orobanchaceae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0027",
+    "polygon_wkt": "POLYGON((10.5585 55.0442,10.5585 55.0622,10.5766 55.0622,10.5766 55.0442,10.5585 55.0442))",
+    "pc1": -0.08073658822247251,
+    "pc2": -0.17652829685293617,
+    "top_families": [
+      {
+        "family": "Ranunculaceae",
+        "count": 8
+      },
+      {
+        "family": "Asteraceae",
+        "count": 5
+      },
+      {
+        "family": "Cerambycidae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0028",
+    "polygon_wkt": "POLYGON((9.2973 55.2244,9.2973 55.2424,9.3154 55.2424,9.3154 55.2244,9.2973 55.2244))",
+    "pc1": 0.5282220025592453,
+    "pc2": -0.15289926025997438,
+    "top_families": [
+      {
+        "family": "Lycaenidae",
+        "count": 43
+      },
+      {
+        "family": "Syrphidae",
+        "count": 41
+      },
+      {
+        "family": "Geometridae",
+        "count": 35
+      }
+    ]
+  },
+  {
+    "id": "cell_0029",
+    "polygon_wkt": "POLYGON((9.6216 56.4495,9.6216 56.4675,9.6396 56.4675,9.6396 56.4495,9.6216 56.4495))",
+    "pc1": 0.29255180961485483,
+    "pc2": 0.10541907811414732,
+    "top_families": [
+      {
+        "family": "Ericaceae",
+        "count": 34
+      },
+      {
+        "family": "Geotrupidae",
+        "count": 16
+      },
+      {
+        "family": "Lycaenidae",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "id": "cell_0030",
+    "polygon_wkt": "POLYGON((9.4414 55.4765,9.4414 55.4946,9.4594 55.4946,9.4594 55.4765,9.4414 55.4765))",
+    "pc1": -0.23405233968508626,
+    "pc2": -0.03144060463965689,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 18
+      },
+      {
+        "family": "Lamiaceae",
+        "count": 11
+      },
+      {
+        "family": "Turdidae",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "cell_0031",
+    "polygon_wkt": "POLYGON((8.3604 56.9361,8.3604 56.9541,8.3784 56.9541,8.3784 56.9361,8.3604 56.9361))",
+    "pc1": 0.2579894152410452,
+    "pc2": 0.06359255081086877,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 24
+      },
+      {
+        "family": "Noctuidae",
+        "count": 17
+      },
+      {
+        "family": "Fabaceae",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "id": "cell_0032",
+    "polygon_wkt": "POLYGON((8.3604 55.4226,8.3604 55.4406,8.3784 55.4406,8.3784 55.4226,8.3604 55.4226))",
+    "pc1": -0.0910693402910987,
+    "pc2": 0.1502825500717558,
+    "top_families": [
+      {
+        "family": "Fabaceae",
+        "count": 19
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 11
+      },
+      {
+        "family": "Caryophyllaceae",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "cell_0033",
+    "polygon_wkt": "POLYGON((9.6396 56.0532,9.6396 56.0712,9.6576 56.0712,9.6576 56.0532,9.6396 56.0532))",
+    "pc1": 0.20100647993980275,
+    "pc2": 0.06368544749463123,
+    "top_families": [
+      {
+        "family": "Gnaphosidae",
+        "count": 16
+      },
+      {
+        "family": "Miturgidae",
+        "count": 13
+      },
+      {
+        "family": "Liocranidae",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "cell_0034",
+    "polygon_wkt": "POLYGON((10.5225 56.1613,10.5225 56.1793,10.5405 56.1793,10.5405 56.1613,10.5225 56.1613))",
+    "pc1": -0.05342403384705378,
+    "pc2": 0.18467922292069866,
+    "top_families": [
+      {
+        "family": "Primulaceae",
+        "count": 10
+      },
+      {
+        "family": "Saxifragaceae",
+        "count": 8
+      },
+      {
+        "family": "Rosaceae",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "cell_0035",
+    "polygon_wkt": "POLYGON((10.3423 57.6027,10.3423 57.6207,10.3603 57.6207,10.3603 57.6027,10.3423 57.6027))",
+    "pc1": 0.26912632366053507,
+    "pc2": 0.22738798051075867,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 15
+      },
+      {
+        "family": "Geometridae",
+        "count": 12
+      },
+      {
+        "family": "Orobanchaceae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0036",
+    "polygon_wkt": "POLYGON((9.6396 55.4585,9.6396 55.4765,9.6576 55.4765,9.6576 55.4585,9.6396 55.4585))",
+    "pc1": 0.2146507761604069,
+    "pc2": -0.15029609249030085,
+    "top_families": [
+      {
+        "family": "Syrphidae",
+        "count": 18
+      },
+      {
+        "family": "Cerambycidae",
+        "count": 8
+      },
+      {
+        "family": "Pyrochroidae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0037",
+    "polygon_wkt": "POLYGON((8.7387 56.882,8.7387 56.9,8.7567 56.9,8.7567 56.882,8.7387 56.882))",
+    "pc1": -0.0839055882225837,
+    "pc2": -0.10333418192228218,
+    "top_families": [
+      {
+        "family": "Fabaceae",
+        "count": 14
+      },
+      {
+        "family": "Primulaceae",
+        "count": 11
+      },
+      {
+        "family": "Asteraceae",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "cell_0038",
+    "polygon_wkt": "POLYGON((8.1802 55.8009,8.1802 55.8189,8.1982 55.8189,8.1982 55.8009,8.1802 55.8009))",
+    "pc1": -0.0950980265747681,
+    "pc2": 0.4644680734509685,
+    "top_families": [
+      {
+        "family": "Anatidae",
+        "count": 16
+      },
+      {
+        "family": "Fabaceae",
+        "count": 7
+      },
+      {
+        "family": "Bufonidae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0039",
+    "polygon_wkt": "POLYGON((9.8198 55.0442,9.8198 55.0622,9.8378 55.0622,9.8378 55.0442,9.8198 55.0442))",
+    "pc1": 0.4360038312554601,
+    "pc2": 0.011703147147724257,
+    "top_families": [
+      {
+        "family": "Geometridae",
+        "count": 317
+      },
+      {
+        "family": "Noctuidae",
+        "count": 126
+      },
+      {
+        "family": "Erebidae",
+        "count": 81
+      }
+    ]
+  },
+  {
+    "id": "cell_0040",
+    "polygon_wkt": "POLYGON((8.9189 56.1433,8.9189 56.1613,8.9369 56.1613,8.9369 56.1433,8.9189 56.1433))",
+    "pc1": -0.04435412850865028,
+    "pc2": -0.007406896715235477,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 15
+      },
+      {
+        "family": "Pyralidae",
+        "count": 7
+      },
+      {
+        "family": "Anatidae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0041",
+    "polygon_wkt": "POLYGON((9.0811 55.7108,9.0811 55.7288,9.0991 55.7288,9.0991 55.7108,9.0811 55.7108))",
+    "pc1": 0.20737447938599213,
+    "pc2": 0.25118602232730197,
+    "top_families": [
+      {
+        "family": "Coenagrionidae",
+        "count": 57
+      },
+      {
+        "family": "Lestidae",
+        "count": 40
+      },
+      {
+        "family": "Libellulidae",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "id": "cell_0042",
+    "polygon_wkt": "POLYGON((9.7117 55.5486,9.7117 55.5666,9.7297 55.5666,9.7297 55.5486,9.7117 55.5486))",
+    "pc1": -0.15074683357604426,
+    "pc2": -0.0229057998633826,
+    "top_families": [
+      {
+        "family": "Lamiaceae",
+        "count": 9
+      },
+      {
+        "family": "Asteraceae",
+        "count": 7
+      },
+      {
+        "family": "Rosaceae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0043",
+    "polygon_wkt": "POLYGON((9.3694 55.9451,9.3694 55.9631,9.3874 55.9631,9.3874 55.9451,9.3694 55.9451))",
+    "pc1": -0.13174905688339833,
+    "pc2": 0.21947419698732504,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 12
+      },
+      {
+        "family": "Fringillidae",
+        "count": 7
+      },
+      {
+        "family": "Turdidae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0044",
+    "polygon_wkt": "POLYGON((9.1892 55.3145,9.1892 55.3325,9.2072 55.3325,9.2072 55.3145,9.1892 55.3145))",
+    "pc1": 0.4687401598863836,
+    "pc2": -0.011793360410823708,
+    "top_families": [
+      {
+        "family": "Syrphidae",
+        "count": 24
+      },
+      {
+        "family": "Geometridae",
+        "count": 9
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0045",
+    "polygon_wkt": "POLYGON((9.8198 56.0532,9.8198 56.0712,9.8378 56.0712,9.8378 56.0532,9.8198 56.0532))",
+    "pc1": -0.05129812029257495,
+    "pc2": -0.16270669130597076,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 37
+      },
+      {
+        "family": "Fabaceae",
+        "count": 19
+      },
+      {
+        "family": "Syrphidae",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "id": "cell_0046",
+    "polygon_wkt": "POLYGON((10.1622 56.1613,10.1622 56.1793,10.1802 56.1793,10.1802 56.1613,10.1622 56.1613))",
+    "pc1": -0.2620429257367201,
+    "pc2": -0.2711871805992108,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 49
+      },
+      {
+        "family": "Fabaceae",
+        "count": 27
+      },
+      {
+        "family": "Ranunculaceae",
+        "count": 23
+      }
+    ]
+  },
+  {
+    "id": "cell_0048",
+    "polygon_wkt": "POLYGON((9.8919 56.0171,9.8919 56.0352,9.9099 56.0352,9.9099 56.0171,9.8919 56.0171))",
+    "pc1": -0.3440110331362617,
+    "pc2": -0.14200525794630273,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 8
+      },
+      {
+        "family": "Fabaceae",
+        "count": 8
+      },
+      {
+        "family": "Lamiaceae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0049",
+    "polygon_wkt": "POLYGON((9.9099 57.5486,9.9099 57.5667,9.9279 57.5667,9.9279 57.5486,9.9099 57.5486))",
+    "pc1": 0.1343271333234123,
+    "pc2": 0.024124248092120232,
+    "top_families": [
+      {
+        "family": "Lasiocampidae",
+        "count": 6
+      },
+      {
+        "family": "Rosaceae",
+        "count": 6
+      },
+      {
+        "family": "Plantaginaceae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0050",
+    "polygon_wkt": "POLYGON((8.991 57.1163,8.991 57.1343,9.009 57.1343,9.009 57.1163,8.991 57.1163))",
+    "pc1": 0.326076686417037,
+    "pc2": 0.03799764084081401,
+    "top_families": [
+      {
+        "family": "Geometridae",
+        "count": 19
+      },
+      {
+        "family": "Noctuidae",
+        "count": 13
+      },
+      {
+        "family": "Ranidae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0051",
+    "polygon_wkt": "POLYGON((10.2523 56.2514,10.2523 56.2694,10.2703 56.2694,10.2703 56.2514,10.2523 56.2514))",
+    "pc1": -0.2644551914169593,
+    "pc2": -0.0574312371667353,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 15
+      },
+      {
+        "family": "Lamiaceae",
+        "count": 8
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0054",
+    "polygon_wkt": "POLYGON((9.7117 56.0352,9.7117 56.0532,9.7297 56.0532,9.7297 56.0352,9.7117 56.0352))",
+    "pc1": 0.19866304257524203,
+    "pc2": -0.006585684640173471,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 21
+      },
+      {
+        "family": "Libellulidae",
+        "count": 11
+      },
+      {
+        "family": "Cerambycidae",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "cell_0055",
+    "polygon_wkt": "POLYGON((8.2703 55.6207,8.2703 55.6387,8.2883 55.6387,8.2883 55.6207,8.2703 55.6207))",
+    "pc1": 0.12356691122142102,
+    "pc2": -0.03445683809597776,
+    "top_families": [
+      {
+        "family": "Noctuidae",
+        "count": 13
+      },
+      {
+        "family": "Geometridae",
+        "count": 11
+      },
+      {
+        "family": "Rosaceae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0056",
+    "polygon_wkt": "POLYGON((9.7297 55.9631,9.7297 55.9811,9.7477 55.9811,9.7477 55.9631,9.7297 55.9631))",
+    "pc1": -0.37650007991551976,
+    "pc2": -0.04069947003457921,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 31
+      },
+      {
+        "family": "Coenagrionidae",
+        "count": 29
+      },
+      {
+        "family": "Fabaceae",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "id": "cell_0057",
+    "polygon_wkt": "POLYGON((9.5315 55.7108,9.5315 55.7288,9.5495 55.7288,9.5495 55.7108,9.5315 55.7108))",
+    "pc1": -0.26608003185998425,
+    "pc2": -0.16854108774703427,
+    "top_families": [
+      {
+        "family": "Lamiaceae",
+        "count": 23
+      },
+      {
+        "family": "Asteraceae",
+        "count": 19
+      },
+      {
+        "family": "Fabaceae",
+        "count": 19
+      }
+    ]
+  },
+  {
+    "id": "cell_0058",
+    "polygon_wkt": "POLYGON((9.4414 55.6928,9.4414 55.7108,9.4594 55.7108,9.4594 55.6928,9.4414 55.6928))",
+    "pc1": -0.06017197815507271,
+    "pc2": -0.23002369820740828,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 10
+      },
+      {
+        "family": "Lamiaceae",
+        "count": 7
+      },
+      {
+        "family": "Apidae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0060",
+    "polygon_wkt": "POLYGON((8.1261 56.2874,8.1261 56.3055,8.1442 56.3055,8.1442 56.2874,8.1261 56.2874))",
+    "pc1": 0.15088550191176392,
+    "pc2": 0.2092832027030908,
+    "top_families": [
+      {
+        "family": "Gentianaceae",
+        "count": 18
+      },
+      {
+        "family": "Ericaceae",
+        "count": 17
+      },
+      {
+        "family": "Fabaceae",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "id": "cell_0061",
+    "polygon_wkt": "POLYGON((10.0721 56.2334,10.0721 56.2514,10.0901 56.2514,10.0901 56.2334,10.0721 56.2334))",
+    "pc1": -0.2911724790309161,
+    "pc2": -0.19067105374884655,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 33
+      },
+      {
+        "family": "Fabaceae",
+        "count": 23
+      },
+      {
+        "family": "Rosaceae",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "id": "cell_0062",
+    "polygon_wkt": "POLYGON((9.6216 55.7108,9.6216 55.7288,9.6396 55.7288,9.6396 55.7108,9.6216 55.7108))",
+    "pc1": -0.12354681693590189,
+    "pc2": -0.13017765089425584,
+    "top_families": [
+      {
+        "family": "Caryophyllaceae",
+        "count": 19
+      },
+      {
+        "family": "Lamiaceae",
+        "count": 11
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "cell_0063",
+    "polygon_wkt": "POLYGON((9.1712 55.6567,9.1712 55.6748,9.1892 55.6748,9.1892 55.6567,9.1712 55.6567))",
+    "pc1": 0.2528082218706283,
+    "pc2": -0.04783337851700874,
+    "top_families": [
+      {
+        "family": "Ericaceae",
+        "count": 31
+      },
+      {
+        "family": "Lycaenidae",
+        "count": 20
+      },
+      {
+        "family": "Curculionidae",
+        "count": 17
+      }
+    ]
+  },
+  {
+    "id": "cell_0064",
+    "polygon_wkt": "POLYGON((9.3154 56.3594,9.3154 56.3774,9.3334 56.3774,9.3334 56.3594,9.3154 56.3594))",
+    "pc1": -0.1395670721319789,
+    "pc2": 0.08644627347888974,
+    "top_families": [
+      {
+        "family": "Plantaginaceae",
+        "count": 14
+      },
+      {
+        "family": "Rosaceae",
+        "count": 14
+      },
+      {
+        "family": "Unionidae",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "id": "cell_0065",
+    "polygon_wkt": "POLYGON((8.4505 55.4765,8.4505 55.4946,8.4685 55.4946,8.4685 55.4765,8.4505 55.4765))",
+    "pc1": -0.29785976049577917,
+    "pc2": -0.14964117701164129,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 15
+      },
+      {
+        "family": "Plantaginaceae",
+        "count": 9
+      },
+      {
+        "family": "Rosaceae",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "cell_0066",
+    "polygon_wkt": "POLYGON((9.8378 56.9721,9.8378 56.9901,9.8559 56.9901,9.8559 56.9721,9.8378 56.9721))",
+    "pc1": 0.10098105081541676,
+    "pc2": -0.14890812749411503,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 14
+      },
+      {
+        "family": "Asteraceae",
+        "count": 13
+      },
+      {
+        "family": "Syrphidae",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "cell_0068",
+    "polygon_wkt": "POLYGON((9.6396 56.1793,9.6396 56.1973,9.6576 56.1973,9.6576 56.1793,9.6396 56.1793))",
+    "pc1": -0.13880962400039995,
+    "pc2": 0.2538336382385791,
+    "top_families": [
+      {
+        "family": "Libellulidae",
+        "count": 11
+      },
+      {
+        "family": "Gomphidae",
+        "count": 9
+      },
+      {
+        "family": "Asteraceae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0069",
+    "polygon_wkt": "POLYGON((10.1622 56.1072,10.1622 56.1253,10.1802 56.1253,10.1802 56.1072,10.1622 56.1072))",
+    "pc1": -0.1708394399563769,
+    "pc2": -0.22789949416229802,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 16
+      },
+      {
+        "family": "Ranunculaceae",
+        "count": 12
+      },
+      {
+        "family": "Helicidae",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "id": "cell_0070",
+    "polygon_wkt": "POLYGON((10.1622 56.0532,10.1622 56.0712,10.1802 56.0712,10.1802 56.0532,10.1622 56.0532))",
+    "pc1": 0.0299812067664451,
+    "pc2": 0.03485946665139337,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 29
+      },
+      {
+        "family": "Asteraceae",
+        "count": 19
+      },
+      {
+        "family": "Fringillidae",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "id": "cell_0071",
+    "polygon_wkt": "POLYGON((9.982 55.9991,9.982 56.0171,10.0 56.0171,10.0 55.9991,9.982 55.9991))",
+    "pc1": -0.12815388341092573,
+    "pc2": -0.2069528644404259,
+    "top_families": [
+      {
+        "family": "Coccinellidae",
+        "count": 8
+      },
+      {
+        "family": "Ranunculaceae",
+        "count": 5
+      },
+      {
+        "family": "Asteraceae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0072",
+    "polygon_wkt": "POLYGON((8.6306 54.9,8.6306 54.918,8.6486 54.918,8.6486 54.9,8.6306 54.9))",
+    "pc1": -0.20831181785647282,
+    "pc2": 0.7211248835926253,
+    "top_families": [
+      {
+        "family": "Anatidae",
+        "count": 88
+      },
+      {
+        "family": "Scolopacidae",
+        "count": 83
+      },
+      {
+        "family": "Charadriidae",
+        "count": 43
+      }
+    ]
+  },
+  {
+    "id": "cell_0073",
+    "polygon_wkt": "POLYGON((9.8198 55.855,9.8198 55.873,9.8378 55.873,9.8378 55.855,9.8198 55.855))",
+    "pc1": -0.4447884189322647,
+    "pc2": 0.13643330854326816,
+    "top_families": [
+      {
+        "family": "Anatidae",
+        "count": 28
+      },
+      {
+        "family": "Ranunculaceae",
+        "count": 20
+      },
+      {
+        "family": "Asteraceae",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "id": "cell_0074",
+    "polygon_wkt": "POLYGON((9.2253 56.882,9.2253 56.9,9.2433 56.9,9.2433 56.882,9.2253 56.882))",
+    "pc1": -0.2755458566082495,
+    "pc2": -0.20375919743834103,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 95
+      },
+      {
+        "family": "Fabaceae",
+        "count": 51
+      },
+      {
+        "family": "Onagraceae",
+        "count": 49
+      }
+    ]
+  },
+  {
+    "id": "cell_0076",
+    "polygon_wkt": "POLYGON((8.9189 55.2784,8.9189 55.2964,8.9369 55.2964,8.9369 55.2784,8.9189 55.2784))",
+    "pc1": 0.42314359653490213,
+    "pc2": 0.09301648193139034,
+    "top_families": [
+      {
+        "family": "Geometridae",
+        "count": 13
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 12
+      },
+      {
+        "family": "Araneidae",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "cell_0077",
+    "polygon_wkt": "POLYGON((9.8198 55.891,9.8198 55.909,9.8378 55.909,9.8378 55.891,9.8198 55.891))",
+    "pc1": -0.22666645521405432,
+    "pc2": -0.14752484463967808,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 15
+      },
+      {
+        "family": "Apidae",
+        "count": 7
+      },
+      {
+        "family": "Talpidae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0078",
+    "polygon_wkt": "POLYGON((9.7117 56.0892,9.7117 56.1072,9.7297 56.1072,9.7297 56.0892,9.7117 56.0892))",
+    "pc1": 0.4229827282807384,
+    "pc2": -0.126926013160123,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 29
+      },
+      {
+        "family": "Cerambycidae",
+        "count": 19
+      },
+      {
+        "family": "Lycaenidae",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "id": "cell_0080",
+    "polygon_wkt": "POLYGON((9.6216 56.1072,9.6216 56.1253,9.6396 56.1253,9.6396 56.1072,9.6216 56.1072))",
+    "pc1": 0.15694139809203841,
+    "pc2": 0.09008754139541739,
+    "top_families": [
+      {
+        "family": "Coenagrionidae",
+        "count": 8
+      },
+      {
+        "family": "Libellulidae",
+        "count": 8
+      },
+      {
+        "family": "Platycnemididae",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "cell_0081",
+    "polygon_wkt": "POLYGON((9.8018 56.4856,9.8018 56.5036,9.8198 56.5036,9.8198 56.4856,9.8018 56.4856))",
+    "pc1": 0.09782244621104953,
+    "pc2": -0.1200721177460525,
+    "top_families": [
+      {
+        "family": "Plantaginaceae",
+        "count": 9
+      },
+      {
+        "family": "Lycaenidae",
+        "count": 9
+      },
+      {
+        "family": "Nymphalidae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0082",
+    "polygon_wkt": "POLYGON((8.3964 55.4405,8.3964 55.4585,8.4145 55.4585,8.4145 55.4405,8.3964 55.4405))",
+    "pc1": -0.20384328507598573,
+    "pc2": 0.12161868008663029,
+    "top_families": [
+      {
+        "family": "Phocidae",
+        "count": 50
+      },
+      {
+        "family": "Fabaceae",
+        "count": 24
+      },
+      {
+        "family": "Asteraceae",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "id": "cell_0083",
+    "polygon_wkt": "POLYGON((9.3514 55.3145,9.3514 55.3325,9.3694 55.3325,9.3694 55.3145,9.3514 55.3145))",
+    "pc1": 0.21394405350567483,
+    "pc2": -0.23980473461796006,
+    "top_families": [
+      {
+        "family": "Geometridae",
+        "count": 25
+      },
+      {
+        "family": "Syrphidae",
+        "count": 20
+      },
+      {
+        "family": "Asteraceae",
+        "count": 17
+      }
+    ]
+  },
+  {
+    "id": "cell_0084",
+    "polygon_wkt": "POLYGON((9.7117 55.0261,9.7117 55.0442,9.7297 55.0442,9.7297 55.0261,9.7117 55.0261))",
+    "pc1": -0.19187501126205384,
+    "pc2": 0.49359521776048076,
+    "top_families": [
+      {
+        "family": "Anatidae",
+        "count": 20
+      },
+      {
+        "family": "Fringillidae",
+        "count": 10
+      },
+      {
+        "family": "Podicipedidae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0085",
+    "polygon_wkt": "POLYGON((9.5315 56.1433,9.5315 56.1613,9.5495 56.1613,9.5495 56.1433,9.5315 56.1433))",
+    "pc1": -0.13941653106955476,
+    "pc2": 0.06420874114619647,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 12
+      },
+      {
+        "family": "Rosaceae",
+        "count": 12
+      },
+      {
+        "family": "Asteraceae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0086",
+    "polygon_wkt": "POLYGON((8.4685 55.6027,8.4685 55.6207,8.4865 55.6207,8.4865 55.6027,8.4685 55.6027))",
+    "pc1": -0.4210480771789188,
+    "pc2": -0.0696877019511237,
+    "top_families": [
+      {
+        "family": "Rosaceae",
+        "count": 16
+      },
+      {
+        "family": "Sapindaceae",
+        "count": 12
+      },
+      {
+        "family": "Asteraceae",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "cell_0087",
+    "polygon_wkt": "POLYGON((9.6216 55.4226,9.6216 55.4406,9.6396 55.4406,9.6396 55.4226,9.6216 55.4226))",
+    "pc1": -0.19594143591948088,
+    "pc2": 0.17887084165960962,
+    "top_families": [
+      {
+        "family": "Fabaceae",
+        "count": 30
+      },
+      {
+        "family": "Asteraceae",
+        "count": 29
+      },
+      {
+        "family": "Anatidae",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "id": "cell_0088",
+    "polygon_wkt": "POLYGON((9.3694 55.4946,9.3694 55.5126,9.3874 55.5126,9.3874 55.4946,9.3694 55.4946))",
+    "pc1": 0.16354296399550303,
+    "pc2": 0.12241593339115162,
+    "top_families": [
+      {
+        "family": "Cerambycidae",
+        "count": 9
+      },
+      {
+        "family": "Tettigoniidae",
+        "count": 7
+      },
+      {
+        "family": "Paridae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0090",
+    "polygon_wkt": "POLYGON((9.4594 55.1162,9.4594 55.1343,9.4774 55.1343,9.4774 55.1162,9.4594 55.1162))",
+    "pc1": -0.15013646422359583,
+    "pc2": 0.12049646356845656,
+    "top_families": [
+      {
+        "family": "Asteraceae",
+        "count": 12
+      },
+      {
+        "family": "Anatidae",
+        "count": 12
+      },
+      {
+        "family": "Syrphidae",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "id": "cell_0091",
+    "polygon_wkt": "POLYGON((9.3694 56.4675,9.3694 56.4856,9.3874 56.4856,9.3874 56.4675,9.3694 56.4675))",
+    "pc1": 0.07991736989122948,
+    "pc2": -0.04182935585358203,
+    "top_families": [
+      {
+        "family": "Nymphalidae",
+        "count": 9
+      },
+      {
+        "family": "Lamiaceae",
+        "count": 6
+      },
+      {
+        "family": "Libellulidae",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "cell_0092",
+    "polygon_wkt": "POLYGON((9.4594 55.1703,9.4594 55.1883,9.4774 55.1883,9.4774 55.1703,9.4594 55.1703))",
+    "pc1": -0.1556390020675989,
+    "pc2": 0.30461127370294605,
+    "top_families": [
+      {
+        "family": "Anatidae",
+        "count": 24
+      },
+      {
+        "family": "Syrphidae",
+        "count": 21
+      },
+      {
+        "family": "Accipitridae",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "id": "cell_0093",
+    "polygon_wkt": "POLYGON((9.0991 55.4405,9.0991 55.4585,9.1171 55.4585,9.1171 55.4405,9.0991 55.4405))",
+    "pc1": 0.13441859731171224,
+    "pc2": -0.13788307159446864,
+    "top_families": [
+      {
+        "family": "Geometridae",
+        "count": 29
+      },
+      {
+        "family": "Erebidae",
+        "count": 13
+      },
+      {
+        "family": "Noctuidae",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "cell_0095",
+    "polygon_wkt": "POLYGON((8.1802 55.7288,8.1802 55.7468,8.1982 55.7468,8.1982 55.7288,8.1802 55.7288))",
+    "pc1": 0.14076619193261028,
+    "pc2": 0.17396712150031543,
+    "top_families": [
+      {
+        "family": "Lasiocampidae",
+        "count": 9
+      },
+      {
+        "family": "Caprifoliaceae",
+        "count": 8
+      },
+      {
+        "family": "Syrphidae",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "id": "cell_0096",
+    "polygon_wkt": "POLYGON((9.3694 55.2244,9.3694 55.2424,9.3874 55.2424,9.3874 55.2244,9.3694 55.2244))",
+    "pc1": -0.1735244178292751,
+    "pc2": 0.2892603070103425,
+    "top_families": [
+      {
+        "family": "Anatidae",
+        "count": 36
+      },
+      {
+        "family": "Paridae",
+        "count": 12
+      },
+      {
+        "family": "Fringillidae",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "cell_0100",
+    "polygon_wkt": "POLYGON((9.8919 57.0262,9.8919 57.0442,9.9099 57.0442,9.9099 57.0262,9.8919 57.0262))",
+    "pc1": -0.2880883497809608,
+    "pc2": -0.23623187054702668,
+    "top_families": [
+      {
+        "family": "Helicidae",
+        "count": 22
+      },
+      {
+        "family": "Sapindaceae",
+        "count": 20
+      },
+      {
+        "family": "Ranunculaceae",
+        "count": 18
+      }
+    ]
+  }
+]
